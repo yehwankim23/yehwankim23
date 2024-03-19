@@ -39,18 +39,6 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=processing">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=Processing&theme=light"
-      />
-      <img
-        src="https://github-profile-languages.vercel.app/api/button?language=Processing"
-        alt="Processing"
-      />
-    </picture>
-  </a>
   <a href="https://github.com/yehwankim23?tab=repositories&language=c%2B%2B">
     <picture>
       <source
