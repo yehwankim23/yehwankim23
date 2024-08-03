@@ -123,4 +123,16 @@
       />
     </picture>
   </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=shell">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=Shell&theme=light"
+      />
+      <img
+        src="https://github-profile-languages.vercel.app/api/button?language=Shell"
+        alt="Shell"
+      />
+    </picture>
+  </a>
 </p>
