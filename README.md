@@ -14,16 +14,41 @@
     </picture>
   </a>
 </p>
+
 <p>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=ti+program">
+  <a href="https://github.com/yehwankim23?tab=repositories&language=javascript">
     <picture>
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=TI%20Program&theme=light"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=JavaScript&theme=light"
       />
       <img
-        src="https://github-profile-languages.vercel.app/api/button?language=TI%20Program"
-        alt="TI Program"
+        src="https://github-profile-languages.vercel.app/api/button?language=JavaScript"
+        alt="JavaScript"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=python">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=Python&theme=light"
+      />
+      <img
+        src="https://github-profile-languages.vercel.app/api/button?language=Python"
+        alt="Python"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=go">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=Go&theme=light"
+      />
+      <img
+        src="https://github-profile-languages.vercel.app/api/button?language=Go"
+        alt="Go"
       />
     </picture>
   </a>
@@ -51,63 +76,15 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=python">
+  <a href="https://github.com/yehwankim23?tab=repositories&language=ti+program">
     <picture>
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=Python&theme=light"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=TI%20Program&theme=light"
       />
       <img
-        src="https://github-profile-languages.vercel.app/api/button?language=Python"
-        alt="Python"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=javascript">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=JavaScript&theme=light"
-      />
-      <img
-        src="https://github-profile-languages.vercel.app/api/button?language=JavaScript"
-        alt="JavaScript"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=batchfile">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=Batchfile&theme=light"
-      />
-      <img
-        src="https://github-profile-languages.vercel.app/api/button?language=Batchfile"
-        alt="Batchfile"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=vbscript">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=VBScript&theme=light"
-      />
-      <img
-        src="https://github-profile-languages.vercel.app/api/button?language=VBScript"
-        alt="VBScript"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=powershell">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-languages.vercel.app/api/button?language=PowerShell&theme=light"
-      />
-      <img
-        src="https://github-profile-languages.vercel.app/api/button?language=PowerShell"
-        alt="PowerShell"
+        src="https://github-profile-languages.vercel.app/api/button?language=TI%20Program"
+        alt="TI Program"
       />
     </picture>
   </a>
@@ -123,6 +100,18 @@
       />
     </picture>
   </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=vbscript">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=VBScript&theme=light"
+      />
+      <img
+        src="https://github-profile-languages.vercel.app/api/button?language=VBScript"
+        alt="VBScript"
+      />
+    </picture>
+  </a>
   <a href="https://github.com/yehwankim23?tab=repositories&language=shell">
     <picture>
       <source
@@ -132,6 +121,30 @@
       <img
         src="https://github-profile-languages.vercel.app/api/button?language=Shell"
         alt="Shell"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=batchfile">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=Batchfile&theme=light"
+      />
+      <img
+        src="https://github-profile-languages.vercel.app/api/button?language=Batchfile"
+        alt="Batchfile"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=powershell">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-languages.vercel.app/api/button?language=PowerShell&theme=light"
+      />
+      <img
+        src="https://github-profile-languages.vercel.app/api/button?language=PowerShell"
+        alt="PowerShell"
       />
     </picture>
   </a>
